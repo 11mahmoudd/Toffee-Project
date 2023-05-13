@@ -1,0 +1,3 @@
+Tofee Tofee sweets ay7aga 10 sweets 0.50 valid 10 
+Moro Moro choco ay7aga 30 Choco 0.50 valid 10 
+galaxy Moro choco ay7aga 40 Choco 0.50 valid 5 
